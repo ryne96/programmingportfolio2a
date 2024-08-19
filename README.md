@@ -1,8 +1,8 @@
 # Ryne Nguyen's Programming Portfolio 2024-25
-*Project graduation 2027
+<li>Project graduation 2027
 *Interested in gardening
 *Experienced in watering flowers
-*Class goal is getting to know programming
+*Class goal is getting to know programming basics
 
 ## Term 1
 
