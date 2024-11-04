@@ -16,6 +16,6 @@ graphics project with keypress drawing controls
 ### Calculator
 Object oriented graphical calculator with custom buttons and GUI
 
-![Running App](https://github.com/ryne96/programmingportfolio2a/blob/main/images/calc96.png)
+![Running App](https://github.com/ryne96/programmingportfolio2a/blob/main/calc96.png?raw=true)
 
 [Source Code](https://github.com/ryne96/programmingportfolio2a/tree/main/src/Calculator2A)
