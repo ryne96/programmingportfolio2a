@@ -8,7 +8,7 @@
 ### Etch-A-Sketch
 graphics project with keypress drawing controls
 ![Running App](https://github.com/ryne96/programmingportfolio2a/blob/main/images/etchHI.png)
-[Source Code]()
+[Source Code](https://github.com/ryne96/programmingportfolio2a/tree/main/src/etchASketch)
 
 ## Term 2
 ### Calculator
