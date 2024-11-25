@@ -21,7 +21,7 @@ Object oriented graphical calculator with custom buttons and GUI
 [Source Code](https://github.com/ryne96/programmingportfolio2a/tree/main/src/Calculator2A)
 
 ## SpaceGame
-Spaceship shooting game with rocks, lasers and powerups
+Spaceship shooting game with rocks, levels, lasers and powerups
 
 ![Running App](https://github.com/ryne96/programmingportfolio2a/blob/main/images/SpaceGameM.png?raw=true)
 
