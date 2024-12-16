@@ -12,6 +12,13 @@ graphics project with keypress drawing controls
 
 [Source Code](https://github.com/ryne96/programmingportfolio2a/tree/main/src/etchASketch)
 
+## GradingTimeline
+A Timeline based grading scale that displays a grade on a line
+
+![Running App](https://github.com/ryne96/programmingportfolio2a/blob/main/images/GradingTimeline.png?raw=true)
+
+[Source Code](https://github.com/ryne96/programmingportfolio2a/tree/main/src/gradingapp)
+
 ## Term 2
 ### Calculator
 Object oriented graphical calculator with custom buttons and GUI
@@ -26,3 +33,4 @@ Spaceship shooting game with rocks, levels, lasers and powerups
 ![Running App](https://github.com/ryne96/programmingportfolio2a/blob/main/images/SpaceGameM.png?raw=true)
 
 [Source Code](https://github.com/ryne96/programmingportfolio2a/tree/main/src/SpaceGame)
+
