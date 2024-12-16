@@ -19,6 +19,13 @@ A Timeline based grading scale that displays a grade on a line
 
 [Source Code](https://github.com/ryne96/programmingportfolio2a/tree/main/src/gradingapp)
 
+## HistoryofComputersTimeline
+The History of Computers displayed on a timeline
+
+![Running App](https://github.com/ryne96/programmingportfolio2a/blob/main/images/HistoryTimeline.png?raw=true)
+
+[Source Code](https://github.com/ryne96/programmingportfolio2a/tree/main/src/Timeline2)
+
 ## Term 2
 ### Calculator
 Object oriented graphical calculator with custom buttons and GUI
